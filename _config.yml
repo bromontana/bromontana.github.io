@@ -1,0 +1,29 @@
+
+title: Frank's Bl0g
+email: frank@franks.io
+
+
+description: > # this means to ignore newlines until "baseurl:"
+  This is my blog/resume/website testing dump.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: pinheadqt
+github_username:  bromontana
+
+
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      author: "Frank Calas"
