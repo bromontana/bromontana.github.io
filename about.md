@@ -4,7 +4,7 @@ permalink: "/about"
 ---
 
 
-#Get to Know Me
+# Get to Know Me
 
 ![This is me :D]({{ site.url }}/assets/riddler.jpg){: .image-circle}
 
@@ -14,7 +14,7 @@ permalink: "/about"
 <br/>
 
 
-##Personal Statement
+## Personal Statement
 I am an active student at Florida Polytechnic University and I want to learn enough to
 leave a lasting legacy; A legacy which will positively impact anyone in the future
 who should decide to follow a path similar to mine.
@@ -28,7 +28,7 @@ many truly passionate people as possible.
 
 <br/><br/>
 
-##Key Skills
+## Key Skills
 CAD Experience
 
 - AutoCAD
@@ -53,7 +53,7 @@ Hardware
 <br/><br/>
 
 
-##Education
+## Education
 - Mechanical Engineer with a concentration in Multi-functional Materials
 - Florida Polytechnic University:
   - 5 Semesters completed including relevant courses:
@@ -64,7 +64,7 @@ Hardware
 
 <br/><br/>
 
-##Personal Interests
+## Personal Interests
 Hacking/Coding,
 Motor Sports/Automobile Restoration,
 Cooking,
