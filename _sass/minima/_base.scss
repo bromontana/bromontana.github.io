@@ -30,15 +30,19 @@ body {
 }
 
 
-
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
+h1, h2, h3, h4, h5, h6 {
+  font-family: $header-font-family;
+  font-weight: $header-font-weight;
+  margin-bottom: $spacing-unit / 2;
+  margin-top: $spacing-unit;
+}
+
 blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-  font: $header-font-weight $header-font-family;
   margin-bottom: $spacing-unit / 2;
 }
 
@@ -50,6 +54,7 @@ ul, ol, dl, figure,
 img {
   max-width: 100%;
   vertical-align: middle;
+  padding: 20px 0px 30px 0px;
 }
 
 
@@ -82,15 +87,6 @@ li {
   > ol {
     margin-bottom: 0;
   }
-}
-
-
-
-/**
- * Headings
- */
-h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
 }
 
 
