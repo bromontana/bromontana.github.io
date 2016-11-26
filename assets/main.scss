@@ -4,15 +4,31 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+
+//Base Font
+$blog-font-family: "PT Sans", Sans, Arial, sans-serif;
+$base-font-size:   22px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
+//Header Font
+$header-font-family: "Raleway", Sans, Arial, sans-serif !default;
+$header-font-size:   16px !default;
+$header-font-weight: 400 !default;
+$header-line-height: 1.5 !default;
 
+//spacing
 $spacing-unit:     30px;
 
-$text-color:       #111;
+//Color palette
+$coral-color: #FF5600;
+$tan-color: #FFE877;
+$pine-color: #289976;
+$aqua-color: #67CC8E;
+$mint-color: #B1FF91;
+
+//text color
+$text-color:       #2C302A;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 

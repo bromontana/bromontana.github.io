@@ -1,10 +1,17 @@
 // Define defaults for each variable.
 
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+//Content Font
+$blog-font-family: "PT Sans", Sans, Arial, sans-serif !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
+
+//Header Font
+$header-font-family: "Raleway", Sans, Arial, sans-serif !default;
+$header-font-size:   16px !default;
+$header-font-weight: 400 !default;
+$header-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
@@ -40,6 +47,7 @@ $on-laptop:        800px !default;
     @content;
   }
 }
+
 
 // Import partials.
 @import

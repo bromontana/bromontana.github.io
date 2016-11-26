@@ -2,9 +2,8 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $fuchiacolor;
-  border-bottom: 1px solid $fuchiacolor;
-  min-height: 56px;
+  border-top: 2px solid $coral-color;
+  border-bottom: 5px solid $grey-color-dark;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -17,10 +16,13 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-
+  color: $grey-color-dark;
   &,
   &:visited {
-    color: $jewelcolor;
+    color: inherit;
+  }
+  &:hover{
+    color: $coral-color;
   }
 }
 
@@ -31,10 +33,14 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: right;
+  color: $grey-color-dark;
 
   &,
   &:visited {
-    color: $jewelcolor;
+    color: inherit;
+  }
+  &:hover{
+    color: $coral-color;
   }
 }
 
@@ -107,9 +113,9 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $fuchiacolor;
+  border-top: 2px solid $grey-color-dark;
+  position: inherit;
   bottom: 0;
-  position: auto;
   width: 100%;
   padding-top: $spacing-unit;
 }
@@ -127,7 +133,7 @@
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: $grey-color;
+  color: $grey-color-dark;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
@@ -181,7 +187,6 @@
  */
 .page-content {
   padding: $spacing-unit 0;
-  height: auto;
 }
 
 .page-heading {
@@ -199,7 +204,7 @@
 
 .post-meta {
   font-size: $small-font-size;
-  color: $grey-color;
+  color: $grey-color-dark;
 }
 
 .post-link {

@@ -1,5 +1,6 @@
 ---
 layout: post
+background: ../../../assets/background.png
 ---
 
 
@@ -66,4 +67,4 @@ and all the complicated physics that goes into materials, such as crystal lattic
 Gibbs Free Energy diagrams. The only problem with all this is it doesn't explain my
 fascination with hacking, and more specifically, hackathons. Well it all goes back to that
 first hackathon I went to in September of 2015. That was where it all began. I caught the
-hacker bug and I haven't lost it since. 
+hacker bug and I haven't lost it since.

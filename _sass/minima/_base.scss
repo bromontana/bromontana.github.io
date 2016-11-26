@@ -12,13 +12,15 @@ html, body {
   height: 100%;
 }
 
+
+
 /**
  * Basic styling
  */
 body {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  color: $starkcolor;
-  background-color: $voidcolor;
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $blog-font-family;
+  color: $text-color;
+  background-color: $background-color;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
@@ -33,9 +35,10 @@ body {
  * Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
+blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
+  font: $header-font-weight $header-font-family;
   margin-bottom: $spacing-unit / 2;
 }
 
@@ -64,7 +67,7 @@ figcaption {
 
 
 .image-circle{
-  border-radius: 10%;
+  border-radius: 5%;
 
 }
 /**
@@ -96,15 +99,15 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $jewelcolor;
+  color: $grey-color;
   text-decoration: none;
 
   &:visited {
-    color: darken($jewelcolor, 15%);
+    color: darken($grey-color, 15%);
   }
 
   &:hover {
-    color: $fuchiacolor;
+    color: $coral-color;
     text-decoration: underline;
   }
 }
