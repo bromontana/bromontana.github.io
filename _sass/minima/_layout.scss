@@ -2,7 +2,6 @@
  * Site header
  */
 .site-header {
-  border-top: 2px solid $coral-color;
   border-bottom: 5px solid $grey-color-dark;
 
   // Positioning context for the mobile navigation icon
@@ -199,6 +198,9 @@
 
   > li {
     margin-bottom: $spacing-unit;
+  }
+  > li > h1, h2, h3 {
+    margin-top: $spacing-unit / 4;
   }
 }
 
