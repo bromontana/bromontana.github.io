@@ -1,9 +1,10 @@
 
 title: Frank's Bl0g
+author: Frank Calas 
 email: frank@franks.io
 
 
-description: Made by Frank Calas. Powered by late nights and googling. 
+description: Made by Frank Calas. Powered by late nights and googling.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
