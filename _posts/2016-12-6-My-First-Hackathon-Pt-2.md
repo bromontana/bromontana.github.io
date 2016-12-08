@@ -10,6 +10,8 @@ hackers and is located in Ann Arbor, Michigan. Even though it was around 1,100 m
 from my apartment I was still able to find some 30 other Florida hackers, and inevitably
 teamed up with one.
 
+![Florida Hackers]({{ site.url }}/assets/floridahackers-logo.png)
+
 ## The Florida Crowd
 
 Florida has one of the *MOST* active communities of hackers in the country! Even though there
@@ -29,11 +31,12 @@ not be a super hack (unless it abides by the third rule), but making a website t
 and that schedule changes something else (like makes calls or orders pizza) then that could be a
 hack. Third, hackers have to learn something from the hack.
 
+\\
 I also recommend that hacks follow a strict life-cycle, where they start and end with the hackathon.
 Unless a hackathon project is so good that it can become its own product or company *and* you happen
 to be extremely interested. Under most normal circumstances, I firmly believe that it is best to
 not sacrifice the new skills you learn from always tackling new hacks. It is also a valuable skill
-(one that is not talked about) to know when and how to _walk away_ from a hack (or a project). 
+(one that is not talked about) to know when and how to _walk away_ from a hack (or a project).
 
 
 ## My Ultimate Take Away

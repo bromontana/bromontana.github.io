@@ -51,5 +51,5 @@ Once I finally settled and found a spot it was time to go swag hunting (heck yea
 Like any big event, MHacks was full of amazing swag from all sorts of companies, (like Walmart,
 Soylent, and Goldman-Sachs) all of which were looking for potential employees.
 
-
-_Edit_: Moved the ultimate takeaway to part two, also created part two. 
+\\
+_Edit_: Moved the ultimate takeaway to part two, also created part two.
