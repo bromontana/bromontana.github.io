@@ -66,4 +66,4 @@ being to talk to entire groups of like-minded people who are just as passionate 
 
 \\
 If you ever get the chance to be a member of a community that impacts your life for the better,
-it should be your responsibility to pay it forward and help expand that community as best you can. 
+it should be your responsibility to pay it forward and help expand that community as best you can.
