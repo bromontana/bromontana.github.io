@@ -9,8 +9,7 @@ MHacks, one of the largest student Hackathons in the country, had something like
 hackers and is located in Ann Arbor, Michigan. Even though it was around 1,100 miles away
 from my apartment I was still able to find some 30 other Florida hackers, and inevitably
 teamed up with one.
-
-![Florida Hackers]({{ site.url }}/assets/floridahackers-logo.png)
+![FloridaHackers]({{ site.url }}/assets/floridahackers-logo.png)
 
 ## The Florida Crowd
 
