@@ -51,19 +51,5 @@ Once I finally settled and found a spot it was time to go swag hunting (heck yea
 Like any big event, MHacks was full of amazing swag from all sorts of companies, (like Walmart,
 Soylent, and Goldman-Sachs) all of which were looking for potential employees.
 
-## My Ultimate Take Away
 
-Besides what code is and how to do it good (or at all in my case) the biggest take-away
-I had from MHacks was that the hacker community is lively, and I wanted to be a part of it.
-The hacker community is friendly and always willing to bring in more people, such as myself.
-
-\\
-Now that I am an active member of the hacker community I have made it a personal goal to
-do the same and try my best to get people interested in hacking and technology so one day
-they may also see what it is like to be a part of an amazing, talented, motivated (good-looking),
-and active community. There is nothing better than finding something you're passionate about and
-being to talk to entire groups of like-minded people who are just as passionate as you are!
-
-\\
-If you ever get the chance to be a member of a community that impacts your life for the better,
-it should be your responsibility to pay it forward and help expand that community as best you can.
+_Edit_: Moved the ultimate takeaway to part two, also created part two. 

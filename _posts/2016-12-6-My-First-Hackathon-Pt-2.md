@@ -1,5 +1,6 @@
 ---
 layout: post
+background: ../../../assets/background.png
 ---
 
 # My First Hackathon (cont.)
@@ -18,7 +19,21 @@ committed and amazing group of regular hackers they created their own entity cal
 You can learn more about them [here](https://medium.com/florida-hackers/the-start-e8056d2780f50) or
 just check out their [website](floridahackers.com).
 
+## Hacks
 
+So of course the purpose of a hackathon isn't the swag of the food or the over excited Floridians,
+it's about the hacks. I like to believe that there are a couple things that make a hackathon hack.
+First, hacks have to be started at hackathons: this isn't to say that you cannot prepare for them.
+Second, hacks have to be stiched together somehow: making a website that just makes a schedule might
+not be a super hack (unless it abides by the third rule), but making a website that makes a schedule
+and that schedule changes something else (like makes calls or orders pizza) then that could be a
+hack. Third, hackers have to learn something from the hack.
+
+I also recommend that hacks follow a strict life-cycle, where they start and end with the hackathon.
+Unless a hackathon project is so good that it can become its own product or company *and* you happen
+to be extremely interested. Under most normal circumstances, I firmly believe that it is best to
+not sacrifice the new skills you learn from always tackling new hacks. It is also a valuable skill
+(one that is not talked about) to know when and how to _walk away_ from a hack (or a project). 
 
 
 ## My Ultimate Take Away
