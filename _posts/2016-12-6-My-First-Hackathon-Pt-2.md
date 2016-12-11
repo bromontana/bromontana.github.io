@@ -8,8 +8,7 @@ background: ../../../assets/background.png
 MHacks, one of the largest student Hackathons in the country, had something like 1,600
 hackers and is located in Ann Arbor, Michigan. Even though it was around 1,100 miles away
 from my apartment I was still able to find some 30 other Florida hackers, and inevitably
-teamed up with one.
-![FloridaHackers]({{ site.url }}/assets/floridahackers-logo.png)
+teamed up with one. ![FloridaHackers]({{ site.url }}/assets/floridahackers-logo.png)
 
 ## The Florida Crowd
 
@@ -17,8 +16,8 @@ Florida has one of the *MOST* active communities of hackers in the country! Even
 aren't any schools in Florida that can (independently) compete with the presence that Waterloo
 or UMaryland can bring, as a state Florida never fails to represent. In fact, Florida has such a
 committed and amazing group of regular hackers they created their own entity called Florida Hackers.
-You can learn more about them [here](https://medium.com/florida-hackers/the-start-e8056d2780f50) or
-just check out their [website](floridahackers.com).
+You can learn more about them [here](https://medium.com/florida-hackers/the-start-e8056d2780f5) or
+just check out their [website](https://floridahackers.com).
 
 ## Hacks
 
