@@ -24,7 +24,7 @@ just check out their [website](http://floridahackers.com/).
 So of course the purpose of a hackathon isn't the swag of the food or the over excited Floridians,
 it's about the hacks. I like to believe that there are a couple things that make a hackathon hack.
 First, hacks have to be started at hackathons: this isn't to say that you cannot prepare for them.
-Second, hacks have to be stiched together somehow: making a website that just makes a schedule might
+Second, hacks have to be stitched together somehow: making a website that just makes a schedule might
 not be a super hack (unless it abides by the third rule), but making a website that makes a schedule
 and that schedule changes something else (like makes calls or orders pizza) then that could be a
 hack. Third, hackers have to learn something from the hack.
