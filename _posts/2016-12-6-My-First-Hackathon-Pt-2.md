@@ -17,7 +17,7 @@ aren't any schools in Florida that can (independently) compete with the presence
 or UMaryland can bring, as a state Florida never fails to represent. In fact, Florida has such a
 committed and amazing group of regular hackers they created their own entity called Florida Hackers.
 You can learn more about them [here](https://medium.com/florida-hackers/the-start-e8056d2780f5) or
-just check out their [website](https://floridahackers.com).
+just check out their [website](http://floridahackers.com/).
 
 ## Hacks
 
