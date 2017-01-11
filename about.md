@@ -22,7 +22,7 @@ The hacking community is where I have decided I can best influence my community,
 is a legitimate reason for that.
 
 The community of people who hack are among the most passionate people I have ever met
-(irregardless of age or affluence), and I can only hope that one day I can empower as
+(regardless of age or affluence), and I can only hope that one day I can empower as
 many truly passionate people as possible.
 
 
