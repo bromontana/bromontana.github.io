@@ -76,13 +76,13 @@ Community Leading
 
 ## Relevant Projects
 
-Basic research assistant (fall 2015 -summer 2016)
-Assisted researchers with developing new techniques for depositing graphene thin film onto glass substrate
-Education Research (fall 2016 - present)
-Developed and facilitated a workshop series for teaching students about microcomputers. 
-Begun with complete beginners introduction, SSH, GPIO; The workshop continued and addressed more advanced topics such as sending data over a mesh network and using sensors to create practical outputs. 
-Served as a member on a #STEM Talk panel about IoT (Nov. 30th, 2016)
-Founder and Organizer for Polyhacks 
-Florida Polytechnic University’s Student Hackathon 
-Lead Organizer Developer Team 
+- Basic research assistant (fall 2015 -summer 2016)
+  - Assisted researchers with developing new techniques for depositing graphene thin film onto glass substrate
+- Education Research (fall 2016 - present)
+  - Developed and facilitated a workshop series for teaching students about microcomputers. 
+  - Begun with complete beginners introduction, SSH, GPIO; The workshop continued and addressed more advanced topics such as sending data over a mesh network and using sensors to create practical outputs. 
+- Served as a member on a #STEM Talk panel about IoT (Nov. 30th, 2016)
+- Founder and Organizer for Polyhacks 
+  - Florida Polytechnic University’s Student Hackathon 
+  - Lead Organizer Developer Team 
 
