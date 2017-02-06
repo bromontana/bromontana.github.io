@@ -17,21 +17,21 @@ I booked a flight to Detroit.
 
 ![MHacks6]({{ site.url }}/assets/MHacks/hacker-registration.jpg)
 
-After my arrival, I was simply stunned with how many people there where. It was one
+After my arrival, I was simply stunned with how many people there were. It was one
 thing to hear about a 1600 student hackathon, but it's another to walk into one. I don't
 think I have ever seen so many people in hoodies and promotional t-shirts in my life. The
 atmosphere was lively and everyone was talking; Contrary to the typical hacker stereotype
 all these people were socializing and getting to know each other.
 
 \\
-As I waded through the crowd of hackers (among then many hacker-veterans) I couldn't
+As I waded through the crowd of hackers (among the many hacker-veterans) I couldn't
 forget the overwhelming sense of humility. Up until then I had always felt like one of
-those "tech people" in the masses. Thats when I realized if I was a tech person, then
+those "tech people" in the masses. That's when I realized if I was a tech person, then
 these people were like tech messiah. I don't believe that, looking back, calling them
 "tech people" wouldn't do them justice; Calling them hackers does.
 
 \\
-After I was checked in, I started to take a good look at hacker spaces.
+After I was checked in, I started to take a good look at hackerspaces.
 I am sure that people must assume it looks a little like this:
 ![MLG Hacker]({{ site.url }}/assets/MHacks/Anonymous-Hackers.jpg)
 Dark room. Guy with his face covered. Some real serious shit going on. But as it turns

@@ -82,7 +82,7 @@ Community Leading
 - Education Research (fall 2016 - present)
   - Developed and facilitated a workshop series for teaching students about microcomputers. 
   - Begun with complete beginners introduction, SSH, GPIO; The workshop continued and addressed more advanced topics such as sending data over a mesh network and using sensors to create practical outputs. 
-- Served as a member on a #STEM Talk panel about IoT (Nov. 30th, 2016)
+- Served as a member on a [#STEM Talk](https://www.youtube.com/watch?v=4X-Re2gu_os) panel about IoT (Nov. 30th, 2016)
 - Founder and Organizer for Polyhacks 
   - Florida Polytechnic University’s Student Hackathon 
   - Lead Organizer Developer Team 

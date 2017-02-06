@@ -58,7 +58,7 @@ The reason you need to know about my family is to have a better understanding of
 Without a sense of my origins how can I hope to get your validation? It would be like watching
 The Mighty Ducks, except starting at the part where Gordon Bombay (the ex hockey player-turned lawyer)
 decides to give the kids on the team (he legally has to coach) a chance but they aren't
-convinced he is going to be a worth while coach. The problem is there is no perspective, and
+convinced he is going to be a worth-while coach. The problem is there is no perspective, and
 therefore nay audience can't get behind a character without proper origins. I hope everything
 I said will help you extrapolate information that I am not going to explicitly say, just as
 watching the beginning of The Mighty Ducks helps you understand why it is so difficult for the

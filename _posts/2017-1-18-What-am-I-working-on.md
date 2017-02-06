@@ -18,7 +18,7 @@ been working on!
 ## My New Project
 
 SO what I have been working on is a little IoT (or Internet of Things) projects. The quick
-summery is: this project's aim is to create affordable, and powerful "SmartHome" functionality
+summary is: this project's aim is to create affordable, and powerful "SmartHome" functionality
 while up-cycling obsolete technology.
 
 
@@ -28,7 +28,7 @@ pay for it. Another is if you are hungry the project will be making a sandwich a
 reward will be eating.
 
 
-### Whats the Problem?
+### What's the Problem?
 
 In this case there are two problems that I want to address. The first problem is everyone wants a
 cool/futuristic "SmartHome" but companies are not trying very hard to deliver. People like to ask
@@ -44,7 +44,7 @@ products all together. Services like Alexa are good if you are Amazon, because i
 use your product to also use your other services because it's easy.
 
 
-## Whats the OTHER Problem?
+## What's the OTHER Problem?
 
 The second problem is a little more out there. Because of the nature of my university I have
 taken a lot of classes that are tied to sustainability. This makes me think about how wasteful
@@ -61,7 +61,7 @@ receive. There is a wide array of sensors mounted on phones that most people can
 
 ## How Does This Project Fix It?(!)?
 
-This project that I am working on will [up-cycle](https://en.wikipedia.org/wiki/Upcycling) old phones and
+This project that I am working on will [upcycle](https://en.wikipedia.org/wiki/Upcycling) old phones and
 take advantage of their robust hardware, while also giving phones a second wind to help them stay out
 of landfills. The project will also explore using the existing "SmartHome" voice service
 ([Alexa](https://developer.amazon.com/alexa-voice-service)) as a secondary UI. The primary UI of this
