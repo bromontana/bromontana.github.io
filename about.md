@@ -42,7 +42,7 @@ Coding Languages
 
 - Python
 - C++
-- HTML/css
+- HTML/CSS
 
 
 Hardware
